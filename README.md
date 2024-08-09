@@ -28,3 +28,11 @@ In this assignment, you must build a mini application using socket programming.
 #### Output:
 <img width="770" alt="output" src="https://github.com/user-attachments/assets/722feb39-fc75-4aae-8c5e-8d549dd487ac">
 
+<br> 
+<br>
+<br>
+
+## Developers:
+[Büşra Ekici](https://github.com/busraekicii) <br>
+[Elif Nazlı Böke](https://github.com/elifnazlib) <br>
+[Gülce Ayşe Döker](https://github.com/GulceAyseDoker)
